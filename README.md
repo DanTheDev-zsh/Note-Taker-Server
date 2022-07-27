@@ -8,5 +8,5 @@ This is a Note taker app that uses an Express.js backend that writes and saves n
 ![image2](./Develop/images/screenshot2.png)  
 
 ## Deployment 
-[Heroku app](https://note-taker-server-33023.herokuapp.com/notes)
+[Heroku app](https://note-taker-server-33023.herokuapp.com)
 
