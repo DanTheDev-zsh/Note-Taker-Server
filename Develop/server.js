@@ -3,7 +3,7 @@ const path = require('path');
 const { c_middle } = require('./fancy-Middlewares/middlewares');
 const api = require('./routes/index.js');
 
-const PORT = 3002;
+const PORT = process.env.PORT || 80;
 
 const app = express();
 
